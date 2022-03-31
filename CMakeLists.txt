@@ -3,4 +3,4 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cll cll.cpp)
+add_executable(cycles cycles.cpp)
