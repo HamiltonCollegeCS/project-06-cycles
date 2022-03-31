@@ -1,0 +1,12 @@
+nodes 8
+moves 10
+place 1
+clock 1
+place 2
+clock 2
+anti 4
+anti 3
+clock 1
+clock 7
+clock 0
+anti 2

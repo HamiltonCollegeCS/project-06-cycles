@@ -1,0 +1,124 @@
+{
+  "tests": [
+    {
+      "name": "Test 1",
+      "setup": "g++ cll.cpp",
+      "run": "bash .testing/test.sh 1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 2",
+      "setup": "g++ cll.cpp",
+      "run": "bash .testing/test.sh 2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 3",
+      "setup": "g++ cll.cpp",
+      "run": "bash .testing/test.sh 3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 4",
+      "setup": "g++ cll.cpp",
+      "run": "bash .testing/test.sh 4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 5",
+      "setup": "g++ cll.cpp",
+      "run": "bash .testing/test.sh 5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 6",
+      "setup": "g++ cll.cpp",
+      "run": "bash .testing/test.sh 6",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 7",
+      "setup": "g++ cll.cpp",
+      "run": "bash .testing/test.sh 7",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 8",
+      "setup": "g++ cll.cpp",
+      "run": "bash .testing/test.sh 8",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 9",
+      "setup": "g++ cll.cpp",
+      "run": "bash .testing/test.sh 9",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 10",
+      "setup": "g++ cll.cpp",
+      "run": "bash .testing/test.sh 10",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 11",
+      "setup": "g++ cll.cpp",
+      "run": "bash .testing/test.sh 11",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 12",
+      "setup": "g++ cll.cpp",
+      "run": "bash .testing/test.sh 12",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}

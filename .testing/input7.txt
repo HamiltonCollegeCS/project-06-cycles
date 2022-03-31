@@ -1,0 +1,5 @@
+nodes 4
+moves 3
+place 2
+place 3
+anti 3

@@ -1,0 +1,7 @@
+nodes 7
+moves 5
+place 4
+place 5
+place 4
+clock 4
+clock 6

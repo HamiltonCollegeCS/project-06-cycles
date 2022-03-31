@@ -1,0 +1,14 @@
+nodes 7
+moves 12
+place 0
+place 0
+place 0
+place 0
+place 0
+place 0
+place 0
+place 0
+place 0
+place 0
+place 0
+place 0

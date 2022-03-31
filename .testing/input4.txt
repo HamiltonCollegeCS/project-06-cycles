@@ -1,0 +1,5 @@
+nodes 5
+moves 3
+place 0
+place 0
+clock 0
