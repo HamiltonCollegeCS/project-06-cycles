@@ -1,5 +1,13 @@
-nodes 4
-moves 3
-place 2
-place 3
-anti 3
+num_nodes 11
+deg_sequence 2 3 3 2 3 3 1 1 1 1 2
+1 2
+0 3 4
+0 5 10
+1 6
+1 7 8
+2 9 10
+3
+4
+4
+5
+2 5
