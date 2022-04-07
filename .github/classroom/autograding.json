@@ -71,9 +71,9 @@
       "points": 1
     },
     {
-      "name": "Test 8",
-      "setup": "g++ cycles.cpp",
-      "run": "bash .testing/test.sh 8",
+      "name": "Test 8 + valgrind",
+      "setup": "g++ -g cycles.cpp",
+      "run": "valgrind --leak-check=full --error-exitcode=1 ./a.out < .testing/input8.txt",
       "input": "",
       "output": "",
       "comparison": "included",
