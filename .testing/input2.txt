@@ -1,8 +1,4 @@
-nodes 6
-moves 6
-place 0
-place 1
-place 2
-place 3
-place 4
-place 5
+num_nodes 2
+deg_sequence 1 1
+1
+0
