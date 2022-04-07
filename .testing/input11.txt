@@ -1,5 +1,0 @@
-nodes 1
-moves 3
-place 0
-clock 0
-anti 0
